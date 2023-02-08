@@ -3,7 +3,7 @@ table,th,td,tr{
     border-collapse: collapse;
 }
 Table{
-    width: 350px;
+    width: 300px;
     text-align: center;
     background-color: yellowgreen;
 };
