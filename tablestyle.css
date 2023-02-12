@@ -1,9 +1,32 @@
-table,th,td,tr{
-    border: 1px solid black;
-    border-collapse: collapse;
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box ;
+    text-decoration: none;
+    list-style-type: none;
 }
+.para{
+    color: rgb(250, 245, 245);
+}
+
+body
+{
+background-color:aqua;
+background-image:url(ABSTRACT\ \(2\).png) ;
+opacity: 
+}
+
+table,th,td,tr{
+    border: 2px solid rgb(217, 241, 1);
+    color: rgb(255, 238, 0);
+    border-collapse: collapse;
+background-position: right bottom;
+}
+
+
 Table{
-    width: 300px;
+    width: 1250px;
     text-align: center;
-    background-color: yellowgreen;
+    background-color: rgb(4, 27, 36);
 };
+
